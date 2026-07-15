@@ -8,7 +8,9 @@
 - **[Aus Snippets abgeleitet]** = bbf-gruppe.com und die meisten Drittseiten waren nicht direkt abrufbar (Proxy-Sperre); Aussagen zu Seiteninhalten/Verzeichniseinträgen stammen aus indexierten Suchergebnis-Snippets und Title-Tags. Grundtendenz belastbar, Details vor dem Termin ggf. per Browser gegenprüfen.
 - WebSearch nutzt einen US-basierten Index; deutsche Geo-Rankings können leicht abweichen.
 
-**Nachträgliche Korrektur (15.07.2026):** Die in Abschnitt 2.4 genannte Platzierung „Fahrzeugfolierer Karlsruhe Platz 3, Immobilien Köln Platz 5" bei der Suche „BBF Gruppe" war in einem erneuten, unabhängigen Test **nicht reproduzierbar**. Markennamen-Suchergebnisse sind volatil – als stabil belegt gilt nur, dass mehrere unabhängige Organisationen ähnliche Namen führen, nicht die exakte Rangfolge. Details: `analyse/bbf-gruppe-analyse.md`.
+**Nachträgliche Korrektur (15.07.2026, Nr. 1):** Bei einer direkten Google-Suche nach dem Unternehmen ist laut Kundenrückmeldung ein Google-Unternehmensprofil (Google Business Profile) sichtbar. Unser Recherche-Tool (organische Websuche) bildet die Google-Maps-/Local-Pack-Ergebnisse, in denen solche Profile erscheinen, nicht zuverlässig ab – die Aussagen unten zu „kein GBP auffindbar" beruhen auf dieser Tool-Limitierung und sollten nicht als „es existiert kein Profil" gelesen werden. Der eigentliche, weiterhin gültige Punkt: Das Profil (falls vorhanden) wird auf der Website selbst nicht eingebunden oder beworben – das bleibt eine echte Lücke. Details siehe `analyse/bbf-gruppe-analyse.md`.
+
+**Nachträgliche Korrektur (15.07.2026, Nr. 2):** Die in Abschnitt 2.4 genannte Platzierung „Fahrzeugfolierer Karlsruhe Platz 3, Immobilien Köln Platz 5" bei der Suche „BBF Gruppe" war in einem erneuten, unabhängigen Test **nicht reproduzierbar**. Markennamen-Suchergebnisse sind volatil – als stabil belegt gilt nur, dass mehrere unabhängige Organisationen ähnliche Namen führen, nicht die exakte Rangfolge. Details: `analyse/bbf-gruppe-analyse.md`.
 
 ---
 
