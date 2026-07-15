@@ -7,6 +7,8 @@ Stand: 14.07.2026 · Recherche für Vertriebstermin Webdesign-Agentur
 - bbf-gruppe.com war netzwerkseitig gesperrt → alle Aussagen zur Seitenstruktur stammen **indirekt** aus indexierten Suchergebnis-Snippets und Title-Tags.
 - Direkter Abruf der Wettbewerber-Websites (WebFetch/curl) war in dieser Umgebung proxy-seitig blockiert (HTTP 403 für alle externen Domains). Die Wettbewerber-Profile basieren daher auf SERP-Snippets, indexierten Unterseiten und Title-Tags – **Design-Eindruck und Quelltext-Analyse (Schema.org) konnten nicht direkt verifiziert werden** und sind entsprechend gekennzeichnet.
 
+**Nachträgliche Korrektur (15.07.2026):** Die Aussage unten zu Abschnitt 1, dass bei der Suche „BBF Gruppe" zwei Fremdfirmen (Fahrzeugfolierer Karlsruhe, Immobilien Köln) auf Platz 3 und 5 ranken, war in einem erneuten, unabhängigen Test **nicht reproduzierbar** – ein frischer Test zeigte stattdessen andere Treffer (Xing, YouTube, Kompass-Verzeichnis, eine unabhängige „BBF Group" aus Boppard). Markennamen-Suchergebnisse sind volatil (Personalisierung, Standort, Tageszeit); konkrete Platzierungen aus diesem Dokument sollten nicht als feste Fakten zitiert werden. Details siehe `analyse/bbf-gruppe-analyse.md`, Abschnitt „Korrekturen".
+
 ---
 
 ## 1. SERP-Präsenz je Keyword

@@ -8,6 +8,8 @@
 - **[Aus Snippets abgeleitet]** = bbf-gruppe.com und die meisten Drittseiten waren nicht direkt abrufbar (Proxy-Sperre); Aussagen zu Seiteninhalten/Verzeichniseinträgen stammen aus indexierten Suchergebnis-Snippets und Title-Tags. Grundtendenz belastbar, Details vor dem Termin ggf. per Browser gegenprüfen.
 - WebSearch nutzt einen US-basierten Index; deutsche Geo-Rankings können leicht abweichen.
 
+**Nachträgliche Korrektur (15.07.2026):** Die in Abschnitt 2.4 genannte Platzierung „Fahrzeugfolierer Karlsruhe Platz 3, Immobilien Köln Platz 5" bei der Suche „BBF Gruppe" war in einem erneuten, unabhängigen Test **nicht reproduzierbar**. Markennamen-Suchergebnisse sind volatil – als stabil belegt gilt nur, dass mehrere unabhängige Organisationen ähnliche Namen führen, nicht die exakte Rangfolge. Details: `analyse/bbf-gruppe-analyse.md`.
+
 ---
 
 ## 1. Status quo lokale Sichtbarkeit (je Standort)
